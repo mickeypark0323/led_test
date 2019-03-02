@@ -34,4 +34,4 @@
   
   ```
   [click here](http://arduino.cc)
-![arduino image](https://images.otwojob.com/product/l/u/O/luOaIc5aUShlKxx.jpg/o2j/resize/852x622%3E)
+  <img src="https://images.otwojob.com/product/l/u/O/luOaIc5aUShlKxx.jpg/o2j/resize/852x622%3E" width="30%">
